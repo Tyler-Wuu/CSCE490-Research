@@ -1,8 +1,4 @@
 Android Development:  
-https://developer.android.com/build/gradle-build-overview - Gradle build overview  
-
-https://developer.android.com/studio/preview - Android Studio Preview  
-
 https://developer.android.com/courses/android-basics-compose/course  - Kotlin and Android Basics
 
 Learning Python:  
