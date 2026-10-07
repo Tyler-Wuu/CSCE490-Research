@@ -1,14 +1,16 @@
-Android Development:
-https://developer.android.com/build/gradle-build-overview - Gradle build overview
+Android Development:  
+https://developer.android.com/build/gradle-build-overview - Gradle build overview  
 
-https://developer.android.com/studio/preview - Android Studio Preview
+https://developer.android.com/studio/preview - Android Studio Preview  
 
-Learning Python:
-https://www.youtube.com/watch?v=fWjsdhR3z3c
-https://www.youtube.com/watch?v=Ro_MScTDfU4
+https://developer.android.com/courses/android-basics-compose/course  - Kotlin and Android Basics
 
-Learning SQL:
-https://www.youtube.com/watch?v=Cz3WcZLRaWc
+Learning Python:  
+https://www.youtube.com/watch?v=fWjsdhR3z3c  
+https://www.youtube.com/watch?v=Ro_MScTDfU4  
+
+Learning SQL:  
+https://www.youtube.com/watch?v=Cz3WcZLRaWc  
 
 Need to be done:
 Create a Python project
