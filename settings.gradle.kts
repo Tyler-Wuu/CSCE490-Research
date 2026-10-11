@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "CSCE490 Research"
+rootProject.name = "Greeting Card"
 include(":app")
